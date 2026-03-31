@@ -1,0 +1,51 @@
+{
+  "subjects": [
+    {
+      "name": "MATHS",
+      "difficulty": 8,
+      "past_score": 70.0,
+      "exam_date": "2026-04-22"
+    },
+    {
+      "name": "CHEMISTRY",
+      "difficulty": 4,
+      "past_score": 92.0,
+      "exam_date": "2026-04-25"
+    },
+    {
+      "name": "PHYSICS",
+      "difficulty": 5,
+      "past_score": 80.0,
+      "exam_date": "2026-04-28"
+    },
+    {
+      "name": "ENGLISH",
+      "difficulty": 4,
+      "past_score": 88.0,
+      "exam_date": "2026-04-30"
+    }
+  ],
+  "sessions": [
+    {
+      "subject": "MATHS",
+      "difficulty": 8,
+      "past_score": 70.0,
+      "days_until_exam": 22,
+      "hours_needed": 2.0
+    },
+    {
+      "subject": "CHEMISTRY",
+      "difficulty": 4,
+      "past_score": 92.0,
+      "days_until_exam": 25,
+      "hours_needed": 1.0
+    },
+    {
+      "subject": "PHYSICS",
+      "difficulty": 5,
+      "past_score": 80.0,
+      "days_until_exam": 28,
+      "hours_needed": 1.5
+    }
+  ]
+}
