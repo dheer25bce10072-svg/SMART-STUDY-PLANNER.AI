@@ -39,7 +39,7 @@ It analyzes subject difficulty, past performance, and exam deadlines to recommen
    * Daily study schedule
    * Total study time
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** Python
 * **Libraries:**
