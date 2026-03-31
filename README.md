@@ -1,6 +1,6 @@
 # SMART-STUDY-PLANNER.AI
 
-# 📘 Smart Study Planner (AI/ML Powered)
+# Smart Study Planner (AI/ML Powered)
 
 A Python-based **Smart Study Planner** that helps students create an optimized study schedule using **Machine Learning**.
 It analyzes subject difficulty, past performance, and exam deadlines to recommend **daily study hours** and improve time management.
